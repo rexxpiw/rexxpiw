@@ -2,7 +2,6 @@
   "filename": "PakTzy.js",
   "access": [
     "6282130224265"
-p
   ],
   "access_bot": [
     "6282130224265"
